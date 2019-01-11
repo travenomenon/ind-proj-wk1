@@ -32,11 +32,17 @@ body {
 }
 
 .well {
-  background-color: #9CC2AF
+  background-color: #9CC2AF;
 
 }
 
 .row {
   margin: 30px;
-  
+
+}
+
+.panel-title {
+  background-color: #9CC2AF;
+  color: #54665f;
+
 }
