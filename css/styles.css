@@ -27,6 +27,11 @@ p {font-size: 15px;
 
 }
 
+.many {
+  font-style: oblique;
+  
+}
+
 body {
   background-color: #bee2d5;
 }
