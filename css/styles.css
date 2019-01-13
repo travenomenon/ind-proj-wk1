@@ -57,11 +57,18 @@ body {
 }
 
 #interests .container {
-  background-image: url(../img/japan.jpeg);
+  background-image: url(../img/drums-1.jpg);
   padding-top: 200px;
   background-size: cover;
   background-repeat: no-repeat;
 
+}
+
+#background .container {
+  background-image: url(../img/japan.jpeg);
+  padding-top: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .nav-link {
