@@ -24,6 +24,8 @@ text editor - Atom
 * CSS
 * BOOTSTRAP
 
+## GH-Pages URL: https://travenomenon.github.io/ind-proj-wk1/
+
 ## Authors
 
 * **Travis Wainwright** - beardohweirdoh@gmail.com
